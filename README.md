@@ -56,6 +56,9 @@ The following is a list of organisations that that are run by my company Wolf So
 [![Vim](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim)](https://www.vim.org/)
 [![Virtualbox](https://img.shields.io/badge/virtualbox-black?logo=virtualbox&logoColor=white&style=for-the-badge)](https://www.virtualbox.org/)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tgwolf&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)]()
+
+
 <p align="right">
 	<img src="https://img.shields.io/badge/Created%20By-Wolf-black?style=for-the-badge" />
 	<a href="https://ko-fi.com/wolfsoftware">
