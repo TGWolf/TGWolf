@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/TGWolf/TGWolf/compare/v0.1.0...HEAD)
 
-- Add guthub stats [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+- Update stats card [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+
+- Add guthub stats [`[9e844c9]`](https://github.com/TGWolf/TGWolf/commit/9e844c99c0d5d5146bfbc466cd61877b3cf0b369)
 
 - The initial commit [`[881056a]`](https://github.com/TGWolf/TGWolf/commit/881056a962ed3188328570ea0d681dfa8550e623)
 
