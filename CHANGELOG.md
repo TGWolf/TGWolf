@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/TGWolf/TGWolf/compare/v0.1.0...HEAD)
 
-- Update stats card [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+- Update the org list [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+
+- Update stats card [`[8e5c454]`](https://github.com/TGWolf/TGWolf/commit/8e5c454ea42ec275ced06d83a50eccaa45039180)
 
 - Update stats card [`[3f1ab50]`](https://github.com/TGWolf/TGWolf/commit/3f1ab50aa3b82a80382340137b23bda70d59e648)
 
