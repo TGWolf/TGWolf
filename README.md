@@ -6,6 +6,10 @@ A long term advocate, supporter and contributer to the Open Souce community.
 
 [![Coder Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TGWolf)](https://profile.codersrank.io/user/tgwolf)
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TGWolf&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 The following is a list of organisations that that are run by my company Wolf Software.
 
 | Github Organisation | Description |
