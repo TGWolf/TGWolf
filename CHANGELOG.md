@@ -7,7 +7,11 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/TGWolf/TGWolf/compare/v0.1.1...HEAD)
 
-- Fix coder rank [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+- Fixed relative link [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+
+- Update README.md [`[d070530]`](https://github.com/TGWolf/TGWolf/commit/d070530fbcfe62a4e5f4b6f98968075427697faa)
+
+- Fix coder rank [`[10a0c91]`](https://github.com/TGWolf/TGWolf/commit/10a0c91359f18bb540a16d93e81d1bd813601873)
 
 - fix [`[0dfbabb]`](https://github.com/TGWolf/TGWolf/commit/0dfbabb5788673a02a852fed2561b368549c5d51)
 
