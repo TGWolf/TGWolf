@@ -4,6 +4,8 @@ A long term advocate, supporter and contributer to the Open Souce community.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tgwolf&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)]()
 
+[![Coder Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TGWolf)](https://profile.codersrank.io/user/tgwolf)
+
 The following is a list of organisations that that are run by my company Wolf Software.
 
 | Github Organisation | Description |
