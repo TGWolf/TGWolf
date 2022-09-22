@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - fix [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
 
+- fix [`[d73ec29]`](https://github.com/TGWolf/TGWolf/commit/d73ec29bc105155b8c8eae264745d9ea1209011a)
+
 - update [`[b2701de]`](https://github.com/TGWolf/TGWolf/commit/b2701dedb4b60b84b5ab51a9df94923c5a2123b9)
 
 - Add coder rank [`[80dd771]`](https://github.com/TGWolf/TGWolf/commit/80dd771342a2fc3f9ce95a53ee5f469f17f81a40)
