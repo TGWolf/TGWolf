@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/TGWolf/TGWolf/compare/v0.1.1...HEAD)
 
-- Fixed relative link [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+- New orgs [`[head]`](https://github.com/TGWolf/TGWolf/commit/)
+
+- Fixed relative link [`[d449f12]`](https://github.com/TGWolf/TGWolf/commit/d449f12709127a4a70206bcedc77d06d7dfbaa19)
 
 - Update README.md [`[d070530]`](https://github.com/TGWolf/TGWolf/commit/d070530fbcfe62a4e5f4b6f98968075427697faa)
 
