@@ -2,10 +2,6 @@
 
 A long term advocate, supporter and contributor to the Open Source community.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=tgwolf&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)]()
-
-[![Coder Rank](images/coderrank.png)](https://profile.codersrank.io/user/tgwolf)
-
 The following is a list of organisations that that are run by my company Wolf Software.
 
 | Github Organisation | Description |
